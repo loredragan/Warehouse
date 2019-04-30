@@ -1,0 +1,1 @@
+Comanda [id=19, clientID=23, produsID=6, cantitate=15, sumaTotala=22.5]
